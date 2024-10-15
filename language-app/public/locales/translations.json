@@ -1,0 +1,20 @@
+{
+    "en": {
+        "translation": {
+            "welcome": "Welcome",
+            "goodbye": "Goodbye",
+            "greeting": "Hello, {{name}}!",
+            "title": "My Application",
+            "description": "This is a sample app."
+        }
+    },
+    "es": {
+        "translation": {
+            "welcome": "Bienvenido",
+            "goodbye": "Adiós",
+            "greeting": "¡Hola, {{name}}!",
+            "title": "Mi Aplicación",
+            "description": "Esta es una aplicación de ejemplo."
+        }
+    }
+}
